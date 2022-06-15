@@ -1,1 +1,1 @@
-# Credit_risk_-logistical_Regression
+# Credit_risk_logistical_Regression
